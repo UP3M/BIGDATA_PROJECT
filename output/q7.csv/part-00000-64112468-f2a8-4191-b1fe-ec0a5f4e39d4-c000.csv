@@ -1,0 +1,10 @@
+Average RMSE,Parameters
+4.25113776963,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 5, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 1.0}"
+4.24438757715,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 5, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 0.1}"
+4.24429821383,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 5, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 0.01}"
+4.25113776963,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 10, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 1.0}"
+4.24438757715,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 10, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 0.1}"
+4.24429821383,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 10, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 0.01}"
+4.25113776963,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 20, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 1.0}"
+4.24438757715,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 20, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 0.1}"
+4.24429821383,"{Param(parent=u'LinearRegression_36460570606b', name='maxIter', doc='max number of iterations (>= 0).'): 20, Param(parent=u'LinearRegression_36460570606b', name='regParam', doc='regularization parameter (>= 0).'): 0.01}"
