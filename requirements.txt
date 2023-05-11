@@ -1,5 +1,0 @@
-pylint
-pyspark
-pandas
-streamlit
-gdown
